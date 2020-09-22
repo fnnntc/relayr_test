@@ -28,9 +28,3 @@ def test_teardown():
     driver.close()
     driver.quit()
 
-
-"""t=GoogleSearch()
-t.test_setup()
-t.test_accept_GDPR()
-t.test_search("qwe")
-t.test_teardown()"""
